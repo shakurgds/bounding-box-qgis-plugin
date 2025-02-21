@@ -1,0 +1,8 @@
+[general]
+name=Minimum Bounding Box
+qgisMinimumVersion=3.0
+description=Creates minimum bounding geometries (box, oriented rectangle, circle, convex hull) with optional grouping
+version=1.0
+author=Abdishakur
+email=shakursom@gmail.com
+icon=Icon.png 
