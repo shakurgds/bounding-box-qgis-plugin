@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/MinimumBoundingBox">
-        <file>Icon.png</file>
-    </qresource>
-</RCC> 
